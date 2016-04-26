@@ -7,6 +7,7 @@ Today I Learned
 ### Categories
 
 * [Java](#java)
+* [JavaScript](#javascript)
 
 ---
 
@@ -15,6 +16,9 @@ Today I Learned
 - [Java JIT Intrinsics](java/java_intrinsics.md)
 - [Java JIT Method Inlining](java/java_method_inlining.md)
 
+### JavaScript
+
+- [Incremental DOM](javascript/javascript_incremental_dom.md)
 
 ## About
 
