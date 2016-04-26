@@ -1,6 +1,6 @@
 # TIL
 
-> Today I Learned
+Today I Learned
 
 ---
 
@@ -13,6 +13,7 @@
 ### Java
 
 - [Java JIT Intrinsics](java/java_intrinsics.md)
+- [Java JIT Method Inlining](java/java_method_inlining.md)
 
 
 ## About
