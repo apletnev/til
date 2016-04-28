@@ -20,6 +20,7 @@ Today I Learned
 ### JavaScript
 
 - [Incremental DOM](javascript/javascript_incremental_dom.md)
+- [Browser Object Model (BOM)](javascript/javascript_bom.md)
 
 ## About
 
