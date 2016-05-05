@@ -16,6 +16,7 @@ Today I Learned
 - [Java JIT Intrinsics](java/java_intrinsics.md)
 - [Java JIT Method Inlining](java/java_method_inlining.md)
 - [Java JIT Dead Code Elimination](java/java_dead_code_elimination_.md)
+- [Java JIT Lock Coarsening](java/java_lock_coarsening_.md)
 
 ### JavaScript
 
