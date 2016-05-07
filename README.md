@@ -23,6 +23,10 @@ Today I Learned
 - [Incremental DOM](javascript/javascript_incremental_dom.md)
 - [Browser Object Model (BOM)](javascript/javascript_bom.md)
 
+### Other
+
+- [Type Safe](other/type_safety.md)
+
 ## About
 
 I shamelessly stole this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
