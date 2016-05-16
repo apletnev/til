@@ -8,7 +8,8 @@ Today I Learned
 
 * [Java](#java)
 * [JavaScript](#javascript)
-
+* [Git](#git)
+* [Other](#other)
 ---
 
 ### Java
@@ -22,6 +23,10 @@ Today I Learned
 
 - [Incremental DOM](javascript/javascript_incremental_dom.md)
 - [Browser Object Model (BOM)](javascript/javascript_bom.md)
+
+### Git
+
+- [Git debugging](git/git_bisect.md)
 
 ### Other
 
