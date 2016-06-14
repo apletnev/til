@@ -9,6 +9,7 @@ Today I Learned
 * [Java](#java)
 * [JavaScript](#javascript)
 * [Git](#git)
+* [Docker](#docker)
 * [Other](#other)
 ---
 
@@ -27,6 +28,10 @@ Today I Learned
 ### Git
 
 - [Git debugging](git/git_bisect.md)
+
+### Docker
+
+- [Docker authorization](docker/docker_authorization.md)
 
 ### Other
 
