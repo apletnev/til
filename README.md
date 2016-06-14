@@ -32,6 +32,7 @@ Today I Learned
 ### Docker
 
 - [Docker authorization](docker/docker_authorization.md)
+- [Docker certificates](docker/docker_certificates.md)
 
 ### Other
 
