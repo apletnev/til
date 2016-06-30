@@ -24,6 +24,7 @@ Today I Learned
 
 - [Incremental DOM](javascript/javascript_incremental_dom.md)
 - [Browser Object Model (BOM)](javascript/javascript_bom.md)
+- [Shadow DOM](javascript/javascript_shadow_dom.md)
 
 ### Git
 
